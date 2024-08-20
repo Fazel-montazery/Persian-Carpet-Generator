@@ -3,14 +3,14 @@ Simple Persian carpet generator on a 2D grid using cellular automation
 
 ## Building
 just use the makefile (the binary file is also included)
-'''bash
-$make main
-'''
+```bash
+make main
+```
 ## Usage
 statrt the program with:
-'''bash
-$./main
-'''
+```bash
+./main
+```
 Controls:
 - MouseLeftClick: create a cell
 - MouseRightClick: destroy a cell
